@@ -1,9 +1,9 @@
 # JSP-CodeCommunity
 JSP Servlet MVC Demo - social platform
 
-Feature: server and client side security for login/ registration/and adminstrative privilages.
-Feature: some dynamic content based on user interactions, login to logout, submitted questions shown in a test page.
-Feature: should fail gracefully?
+Feature: server and client side security for login/ registration/and adminstrative privilages.<br/>
+Feature: some dynamic content based on user interactions, login to logout, submitted questions shown in a test page.<br/>
+Feature: should fail gracefully?<br/>
 
 (DataBase For MySQL)
 

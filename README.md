@@ -4,6 +4,7 @@ JSP Servlet MVC Demo - social platform
 Feature: server and client side security for login/ registration/and adminstrative privilages.<br/>
 Feature: some dynamic content based on user interactions, login to logout, submitted questions shown in a test page.<br/>
 Feature: should fail gracefully?<br/>
+IMPORTANT: change the "role" in the DataBase below to ADM or MDT to access secure locations.<br/>
 
 (DataBase For MySQL)
 

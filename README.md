@@ -6,6 +6,8 @@ Feature: some dynamic content based on user interactions, login to logout, submi
 Feature: should fail gracefully?<br/><br/>
 IMPORTANT: change the "role" in the DataBase below to ADM or MDT to access secure locations.<br/>
 
+ScreenShots: https://github.com/morlinski/JSP-CodeCommunity/issues/1
+
 (DataBase For MySQL)
 
 CREATE DATABASE dbcodecomm;
